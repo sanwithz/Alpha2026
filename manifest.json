@@ -1,0 +1,19 @@
+{
+    "name": "Alpha App",
+    "short_name": "AlphaApp",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4285f4",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVbdj6eLwpgAJ40SKvADG8ZPTUFxtfm0XX28JlV0bbeBPOua60Hm0G2z55Vw7zXdXhnclIIEbGVKDJM_JllcRMIQ9uOpYLXLizM3VLPwqUL-J_ZYtPGiql4BB3yC9ZT5pqhRGwqVzF7nw8k5Ghzl0F43E4B2pfcbsNO6rl41_gj1krdcXFLEogfzj99-hB/s1600/favicon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }, {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVbdj6eLwpgAJ40SKvADG8ZPTUFxtfm0XX28JlV0bbeBPOua60Hm0G2z55Vw7zXdXhnclIIEbGVKDJM_JllcRMIQ9uOpYLXLizM3VLPwqUL-J_ZYtPGiql4BB3yC9ZT5pqhRGwqVzF7nw8k5Ghzl0F43E4B2pfcbsNO6rl41_gj1krdcXFLEogfzj99-hB/s1600/favicon-192.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

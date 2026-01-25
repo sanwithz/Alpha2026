@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My App Name</title>
+    <link rel="manifest" href="manifest.json">
+    <style>
+        body, html { margin: 0; padding: 0; height: 100%; overflow: hidden; }
+        iframe { border: none; width: 100%; height: 100vh; display: block; }
+    </style>
+</head>
+<body>
+    <iframe src="https://script.google.com/macros/s/AKfycbybAnlMxWZzfYj3YYTelQ0uM2PHf8p7DoqqrZHR99cfxhEOwuakqceCPNelJpJ1P8Dc/exec"></iframe>
+
+    <script>
+        // Register Service Worker
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js');
+        }
+    </script>
+</body>
+</html>
